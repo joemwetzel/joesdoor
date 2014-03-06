@@ -1,0 +1,3 @@
+IP: 10.77.24.211
+USB Debugging: 1
+Port: 10000

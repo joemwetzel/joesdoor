@@ -1,0 +1,30 @@
+# Version: 7.0.7.2 (fb4bc7b)
+# [first argument, ignore] # /Users/wetzel/joesdoor/JoesDoor/bin/iPhone/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/wetzel/joesdoor/JoesDoor/bin/iPhone/Debug/JoesDoor.app \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/wetzel/joesdoor/Components/restsharp-104.1.0/lib/ios/RestSharp.MonoTouch.dll \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--sgen \
+	--abi=armv7 \
+	/Users/wetzel/joesdoor/JoesDoor/bin/iPhone/Debug/JoesDoor.exe \

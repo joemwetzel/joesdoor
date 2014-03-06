@@ -1,0 +1,8 @@
+/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.Linq.dll
+/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache/Link/RestSharp.MonoTouch.dll
+/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache/Link/JoesDoor.exe
+/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/wetzel/joesdoor/JoesDoor/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
